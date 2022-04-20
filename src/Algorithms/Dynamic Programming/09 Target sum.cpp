@@ -1,3 +1,5 @@
+// must watch video no.12 ...aise samajh nahi aayega
+
 
 class Solution {
 public:
